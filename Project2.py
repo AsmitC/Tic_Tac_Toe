@@ -1,12 +1,3 @@
-# File: Project2.py
-# Student: Asmit Chakraborty
-# UT EID: ac83832
-# Course Name: CS303E
-#
-# Date: November 3, 2022
-# Description of Program: Creates a game of tic tac toe that the user can play
-# with a bot
-
 import random
 
 # Some global constants:
